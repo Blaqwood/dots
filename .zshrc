@@ -29,6 +29,7 @@ setopt SHARE_HISTORY        # Share history between sessions
 
 
 TERMINAL="urxvt"
+export terminal='urxvt'
 export EDITOR='vim'        # Set default editor
 #export BAT_THEME="TwoDark"  # Set bat theme
 #export TERM=xterm-256color  # Set term variable
